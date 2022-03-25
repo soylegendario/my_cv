@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Rafael",
+      "surnames": "León Pastor",
+      "title": "",
+      "description": "¿Recordáis la película TRON? Pero la del 82... bueno pues yo la tenía en una cita BETA grabada de la TV y desde que la vi he querido ser un programador, de hecho aún hoy veo las clases como pequeñas personitas, no sé si debería ir al médico... El caso es que luego mis padres me compraron un AMSTRAD CPC 464 de cinta y monitor de fósforo verde que al principio, evidentemente, sólo usaba para jugar, pero luego, con unos 12 años, empecé a leer el manual de BASIC y ahí empecé a tirar mis primeras líneas de código.",
+      "avatar": {
+        "alt": "77A66C7A-911D-42EA-88ED-8F2D0D198D45.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a8550198-de0f-4b01-bdf7-e1265a068184_77a66c7a-911d-42ea-8.jpeg"
+      },
+      "location": {
+        "notes": ""
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rafael-leon-pastor/"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/rafael-leon-pastor/"
+        }
+      ]
+    }
+  }
+}
