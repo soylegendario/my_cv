@@ -8,7 +8,7 @@
     "profile": {
       "name": "Rafael",
       "surnames": "León Pastor",
-      "title": "",
+      "title": "Software Development Expert",
       "description": "¿Recordáis la película TRON? Pero la del 82... bueno pues yo la tenía en una cita BETA grabada de la TV y desde que la vi he querido ser un programador, de hecho aún hoy veo las clases como pequeñas personitas, no sé si debería ir al médico... El caso es que luego mis padres me compraron un AMSTRAD CPC 464 de cinta y monitor de fósforo verde que al principio, evidentemente, sólo usaba para jugar, pero luego, con unos 12 años, empecé a leer el manual de BASIC y ahí empecé a tirar mis primeras líneas de código.",
       "avatar": {
         "alt": "77A66C7A-911D-42EA-88ED-8F2D0D198D45.jpeg",
@@ -25,12 +25,130 @@
       }
     ]
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Razor",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure Functions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WPF",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SOA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebApi",
+          "type": "technology"
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/rafael-leon-pastor/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "ASP.net",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
         }
       ]
     }
