@@ -149,6 +149,22 @@
         {
           "name": "Azure",
           "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "WebApi",
+          "type": "technology"
+        },
+        {
+          "name": "Azure Functions",
+          "type": "technology"
+        },
+        {
+          "name": "Jetbrains",
+          "type": "technology"
         }
       ]
     }
