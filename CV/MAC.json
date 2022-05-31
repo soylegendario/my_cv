@@ -13,9 +13,6 @@
       "avatar": {
         "alt": "77A66C7A-911D-42EA-88ED-8F2D0D198D45.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a8550198-de0f-4b01-bdf7-e1265a068184_77a66c7a-911d-42ea-8.jpeg"
-      },
-      "location": {
-        "notes": ""
       }
     },
     "relevantLinks": [
@@ -28,10 +25,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English"
       },
       {
-        "name": "English"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -139,7 +136,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "C#",
+          "name": ".Net Core",
           "type": "technology"
         },
         {
@@ -151,19 +148,19 @@
           "type": "technology"
         },
         {
-          "name": ".Net Core",
-          "type": "technology"
-        },
-        {
-          "name": "WebApi",
-          "type": "technology"
-        },
-        {
           "name": "Azure Functions",
           "type": "technology"
         },
         {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
           "name": "Jetbrains",
+          "type": "technology"
+        },
+        {
+          "name": "WebApi",
           "type": "technology"
         }
       ]
