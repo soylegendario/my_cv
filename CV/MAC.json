@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,6 +13,12 @@
       "avatar": {
         "alt": "77A66C7A-911D-42EA-88ED-8F2D0D198D45.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a8550198-de0f-4b01-bdf7-e1265a068184_77a66c7a-911d-42ea-8.jpeg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Córdoba",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -25,13 +31,57 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure Functions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Razor",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JavaScript",
@@ -52,31 +102,7 @@
       },
       {
         "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Razor",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure Functions",
+          "name": "WPF",
           "type": "technology"
         }
       },
@@ -88,25 +114,7 @@
       },
       {
         "skill": {
-          "name": "ASP.net",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": ".Net Core",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WPF",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
+          "name": "WebApi",
           "type": "technology"
         }
       },
@@ -118,7 +126,7 @@
       },
       {
         "skill": {
-          "name": "WebApi",
+          "name": "SQL",
           "type": "technology"
         }
       }
@@ -163,7 +171,13 @@
           "name": "WebApi",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Software Architect",
+        "Tech Lead"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
