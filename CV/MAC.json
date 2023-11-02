@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,16 +9,16 @@
       "name": "Rafael",
       "surnames": "León Pastor",
       "title": "Software Development Expert",
-      "description": "",
+      "description": "¿Recordáis la película TRON? Pero la del 82... bueno pues yo la tenía en una cita BETA grabada de la TV y desde que la vi he querido ser un programador, de hecho aún hoy veo las clases como pequeñas personitas, no sé si debería ir al médico... El caso es que luego mis padres me compraron un AMSTRAD CPC 464 de cinta y monitor de fósforo verde que al principio, evidentemente, sólo usaba para jugar, pero luego, con unos 12 años, empecé a leer el manual de BASIC y ahí empecé a tirar mis primeras líneas de código.",
       "avatar": {
-        "alt": "77A66C7A-911D-42EA-88ED-8F2D0D198D45.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a8550198-de0f-4b01-bdf7-e1265a068184_77a66c7a-911d-42ea-8.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a8550198-de0f-4b01-bdf7-e1265a068184_77a66c7a-911d-42ea-8.jpeg",
+        "alt": "77A66C7A-911D-42EA-88ED-8F2D0D198D45.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ7wpe-SbfbA0Rw1aEEOjS8U0)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Córdoba",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Córdoba"
       }
     },
     "relevantLinks": [
@@ -31,11 +31,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -60,12 +60,6 @@
       },
       {
         "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Azure",
           "type": "technology"
         }
@@ -78,13 +72,7 @@
       },
       {
         "skill": {
-          "name": "Razor",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
+          "name": "C#",
           "type": "technology"
         }
       },
@@ -96,13 +84,7 @@
       },
       {
         "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WPF",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -114,7 +96,7 @@
       },
       {
         "skill": {
-          "name": "WebApi",
+          "name": "Razor",
           "type": "technology"
         }
       },
@@ -129,6 +111,44 @@
           "name": "SQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WPF",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebApi",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -136,8 +156,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/rafael-leon-pastor/"
+          "URL": "https://www.linkedin.com/in/rafael-leon-pastor/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "rafaleonbb@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "667754519",
+          "countryCode": "+34"
         }
       ]
     },
@@ -179,5 +208,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Un equipo no muy grande (4 o 5 personas) con un buen nivel técnico y fanáticos de las buenas prácticas con un Stack tecnológico lo más moderno posible. Que haya un buen ambiente, dinámico y abierto a aprender y experimentar.",
+    "goodPractices": "SOLID, TDD, Code Reviews, PRs, unit tests, Clean Code"
   }
 }
