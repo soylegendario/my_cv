@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -32,10 +32,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -162,12 +164,6 @@
       ],
       "contactMails": [
         "rafaleonbb@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "667754519",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -210,6 +206,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": ".Net Core",
+        "type": "technology"
+      },
+      {
+        "name": "ASP.net",
+        "type": "technology"
+      },
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "C#",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Un equipo no muy grande (4 o 5 personas) con un buen nivel técnico y fanáticos de las buenas prácticas con un Stack tecnológico lo más moderno posible. Que haya un buen ambiente, dinámico y abierto a aprender y experimentar.",
     "goodPractices": "SOLID, TDD, Code Reviews, PRs, unit tests, Clean Code"
   }
